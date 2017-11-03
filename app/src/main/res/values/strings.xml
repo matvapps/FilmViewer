@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FilmViewer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="overview_string">Описание:</string>
+    <string name="popular_title">Популярные</string>
+    <string name="now_playing_title">В кино</string>
+    <string name="upcoming_title">Грядущие</string>
+    <string name="nav_item_favourite">Понравившиеся</string>
+    <string name="details_string">Подробно</string>
+
+</resources>

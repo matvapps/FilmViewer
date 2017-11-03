@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="movie_item_width">300dp</dimen>
+    <dimen name="movie_item_height">475dp</dimen>
+</resources>
